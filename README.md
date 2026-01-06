@@ -280,7 +280,7 @@ If you find this tool useful, please consider giving it a star on GitHub!
 ---
 
 <div align="center">
-  <b>Made with ❤️ by egnake</b>
+  <b>Made with by egnake</b>
   <br><br>
   <a href="https://github.com/egnake/ghost-dir">
     <img src="https://img.shields.io/github/stars/egnake/ghost-dir?style=social" alt="GitHub Stars">
