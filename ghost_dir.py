@@ -229,7 +229,7 @@ class GhostDir:
         self.stop_event.set()
         self._print_warning("\n[!] Tarama durduruldu. Sonuçlar kaydediliyor...")
         self._save_results()
-        sys.exit(0)
+        sys.exit(1)
     
     def _print_banner(self):
         if RICH_AVAILABLE and self.console and not self.no_color:
@@ -336,7 +336,7 @@ class GhostDir:
             headers.update(self.headers)
             response = self.session.get(
                 self.target_url, headers=headers, timeout=self.timeout,
-                verify=self.verify_ssl, proxies=self.proxy, allow_redirects=True
+                verify=self.verify_ssl, proxies=self.proxy, allow_redirects=self.follow_redirects
             )
             self._print_success(f"[+] Hedef erişilebilir: {self.target_url} (Status: {response.status_code})")
             return True
